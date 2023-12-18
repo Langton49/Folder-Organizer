@@ -11,7 +11,7 @@ cd Folder-Organizer
 ```
 ### Run Script
 ```
-python FolderCleaner.py
+python folderOrganizer.py
 ```
 ## Dependencies
 Python 3.11
