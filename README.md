@@ -13,5 +13,9 @@ cd Folder-Organizer
 ```
 python FolderCleaner.py
 ```
+## Dependencies
+Python 3.11
 
+## Author
+Munashe Mukweya
 
