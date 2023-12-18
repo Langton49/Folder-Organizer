@@ -5,13 +5,13 @@ This simple Python script organizes the files inside a folder according to their
 ## Usage
 
 ### Clone Repo
-'''
+```
 git clone https://github.com/Langton49/Folder-Organizer
 cd Folder-Organizer
-'''
+```
 ### Run Script
-'''
-python 
-'''
+```
+python FolderCleaner.py
+```
 
 
